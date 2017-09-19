@@ -1,3 +1,7 @@
+---
+is_archived: true
+---
+
 # Sample page
 
 [google]
