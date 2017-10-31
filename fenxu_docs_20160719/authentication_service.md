@@ -16,5 +16,15 @@ Here comes the idea of Authentication Serivce of OPS. It focus to resolve the fo
 3. Clean the wrapper layer code in current OPS build code.
 
 ## Overall design
-Overall design of Authentication Service is like following shows:  
+Overall design of Authentication Service (shorten as AS) is like following shows:  
 ![overall workflow](images/authentication_service_overall_workflow.png)  
+
+### AS feature I - provide user profile
+1. Other services call AS with service access key (provided by AS and share to trusted service) and user id
+2. AS service provides the user profile to the calling service
+
+### AS feature II - provide user permission check
+1. Other service call AS with service access key and user id
+2. AS service provides user's permission to the calling service
+
+## 
