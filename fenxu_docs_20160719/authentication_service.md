@@ -27,4 +27,15 @@ Overall design of Authentication Service (shorten as AS) is like following shows
 1. Other service call AS with service access key and user id
 2. AS service provides user's permission. Here permission includes two parts: OPS permission and user permission to a given specific repository.
 
-## 
+> ![NOTE]
+> OPS permission contains moniker, share base path, provision.
+> Repository permission contains admin, write, read.
+
+## Detail
+
+### GitHub
+1. GitHub OAuth token won't be changed
+
+### VSO
+1. VSO doesn't provide permission API.
+2. VSO token will expire and need to referesh token.
