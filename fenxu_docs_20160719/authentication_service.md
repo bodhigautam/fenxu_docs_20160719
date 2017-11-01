@@ -25,6 +25,6 @@ Overall design of Authentication Service (shorten as AS) is like following shows
 
 ### AS feature II - provide user permission check
 1. Other service call AS with service access key and user id
-2. AS service provides user's permission to the calling service
+2. AS service provides user's permission. Here permission includes two parts: OPS permission and user permission to a given specific repository.
 
 ## 
