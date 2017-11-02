@@ -1,7 +1,7 @@
 {
-  "markdownEngineName": "dfm-latest"
+  "markdownEngineName": "dfm-latest",
   "build": {
-    "markdownEngineName": "dfm-latest"
+    "markdownEngineName": "dfm-latest",
     "content": [
       {
         "files": [
