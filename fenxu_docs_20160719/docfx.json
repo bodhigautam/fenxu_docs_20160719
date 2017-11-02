@@ -1,5 +1,7 @@
 {
+  "markdownEngineName": "dfm-latest"
   "build": {
+    "markdownEngineName": "dfm-latest"
     "content": [
       {
         "files": [
