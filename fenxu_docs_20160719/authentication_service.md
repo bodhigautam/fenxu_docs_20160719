@@ -4,6 +4,7 @@ author: fenxu
 ---
 
 # OPS Authentication Service Design Spec
+Test sth.
 
 ## Issue want to resolve
 As we know that if partners want to use OPS system, they need to authorize either GitHub OAuth Application or VSO OAuth Application created by OPS build service.  
