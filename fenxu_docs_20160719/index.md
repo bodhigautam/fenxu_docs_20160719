@@ -2,7 +2,7 @@
 dev_langs: 
   - "C++"
 ---
-
+  
 # Index test file for Open Publishing
 
 [image_test](image_tesT.md)
