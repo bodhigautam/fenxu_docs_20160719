@@ -25,7 +25,7 @@
         "LandingData": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
     }
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/fenxu/fenxu_docs_20160719",
