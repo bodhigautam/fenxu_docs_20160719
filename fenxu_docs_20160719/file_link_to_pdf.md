@@ -1,6 +1,6 @@
 # This is a sample file that contains link to pdf
 
-[pdf link](test_pdf.pdf)
+[pdf link](test\_p\df.pdf)
 
 Here's a pdf link.
 
