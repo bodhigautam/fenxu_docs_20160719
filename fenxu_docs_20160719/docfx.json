@@ -29,6 +29,7 @@
         ]
       }
     ],
+    "exportRawmodel": true,
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
