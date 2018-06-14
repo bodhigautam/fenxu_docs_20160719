@@ -1,7 +1,7 @@
 ---
 title: "OPS Authentication Service Design Spec personal"
 author: fenxu
-uid: auth_20180613
+uid: auth_20180614
 ---
 
 # OPS Authentication Service Design Spec
