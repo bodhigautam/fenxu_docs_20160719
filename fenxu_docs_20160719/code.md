@@ -26,6 +26,21 @@ namespace Prime.Services
 }
 ```
 
+```X++
+using System;
+
+namespace Prime.Services
+{
+    public class PrimeService
+    {
+        public bool IsPrime(int candidate) 
+        {
+            throw new NotImplementedException("Please create a test first");
+        } 
+    }
+}
+```
+
 0. dasf
 1. asdf
 2. asdf
