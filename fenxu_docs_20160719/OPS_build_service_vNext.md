@@ -29,7 +29,7 @@
    - Global control to some features like timeout, service account usage, cache control.
 5. Micro services
 
-## Compare of document platform service and micro services
+## Compare of platform service and micro services
 Platform service means creating a service provide basic functionality for different service plugins.
 Micro services means separate different independent function to different services.
 
@@ -41,3 +41,8 @@ The following table is a comparision between platform service and micro service
 | 2 | Scale | **Disadvantages**<ul><li>No easy scability for different functionality. <br/>*Solution*: platform provides mechinism to make scale independently.</li></ul> | **Advantages**<ul><li>Easy to scale different service base on capacity requirement</li><li>Economical</li></ul> |
 | 3 | Develop and Debug | **Advantages**<ul><li>Shared service functionality</li></ul> **Disadvantages**<ul><li>Platform development needs to care more about campatible to different plugins.<br/>*Solution*: versioning</li><li>Functionality plugins need to understand how to use platform provided function.<br/>*Solution*: versioning</li><li>Hard to trouble shooting and debug because of dependency.</li></ul> | **Advantages**<ul><li>No directly dependency to infrastructure service.</li><li>Easy to do trouble shooting</li></ul> **Disadvantages**<ul><li>No shared infrasturecture service provided. *Solution*: Provide shared code libraray for different services.</li></ul> |
 
+## System architecture compare
+
+### Platform service
+
+### Micro services
