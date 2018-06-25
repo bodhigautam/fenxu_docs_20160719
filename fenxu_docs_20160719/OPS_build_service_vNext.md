@@ -44,7 +44,7 @@ The following table is a comparision between platform service and micro service
 ## System architecture compare
 
 ### Platform service
-![Platform service](images/platform service.png)
+![Platform service](images/platform-service.png)
 
 ### Micro services
 ![Micro-service](images/micro-services.png)
