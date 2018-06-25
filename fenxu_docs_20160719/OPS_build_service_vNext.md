@@ -19,6 +19,7 @@
    - **Powerful** but out of control.
    - **Easy for custmizing**.
    - Make build result unexpected.
+6. Shorten E2E testing
 
 ## What we want
 1. An easy local debugging and developing environment for service.
@@ -28,6 +29,7 @@
    - Able to control capacity with some mechanism like priority.
    - Global control to some features like timeout, service account usage, cache control.
 5. Micro services
+6. Easy rollback and testing
 
 ## Compare of platform service and micro services
 Platform service means creating a service provide basic functionality for different service plugins.
