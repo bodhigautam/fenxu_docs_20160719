@@ -30,4 +30,19 @@ Once the heart rate becomes higher, the battery starts charging. It represents f
 ## Material needs to prepare
 | Name | Usage | Purchase Link |
 | ---- | ----- | ------------- |
-|      |       |               |
+|  Lilypad Arduino Board;
+|  ECG Module (AD8232);
+|  ECG Electrodes - 3 pieces (should be replaced by textile electrodes in final prototype);
+|  ECG Electrode Connector -3.5 mm;
+|  Power supply(Lipo battery);
+|  Thin Fabric to paint your design（white）;
+|  Conductive thread and conductive fabric;
+|  Thermochromatic Pigment;
+|  Breadboard for testing;
+|  Jumper wires;
+|  crocodile wires;
+|  Needles;
+|  Thirsts;
+|  crocodile wires; 
+|  crocodile wires; 
+|  crocodile wires;
