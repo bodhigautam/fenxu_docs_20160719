@@ -31,7 +31,7 @@ Once the heart rate becomes higher, the battery starts charging. It represents f
 | Name | Usage | Purchase Link |
 | ---- | ----- | ------------- |
 |  Lilypad Arduino Board;
-|  ECG Module (AD8232);
+|  ECG Module (AD8232); | http://www.instructables.com/id/ECG-Monitoring-System-by-Using-Arduino-or-AD8232/ |
 |  ECG Electrodes - 3 pieces (should be replaced by textile electrodes in final prototype);
 |  ECG Electrode Connector -3.5 mm;
 |  Power supply(Lipo battery);
