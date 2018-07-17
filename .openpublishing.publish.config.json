@@ -1,5 +1,5 @@
 {
-  "build_entry_point": "docs",
+  "build_entry_point": "abc.ps1",
   "need_generate_intellisense": false,
   "branch_target_mapping": {
     "live": ["Publish", "PDF"],
@@ -24,7 +24,6 @@
         "RestApi": "Content",
         "LandingData": "Content"
       },
-      "build_entry_point": "docs",
       "template_folder": "_themes"
     }
   ],
