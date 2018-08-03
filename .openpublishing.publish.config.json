@@ -3,7 +3,7 @@
   "need_generate_intellisense": false,
   "branch_target_mapping": {
     "live": ["Publish", "PDF"],
-    "master": ["Publish", "PDF"]
+    "master": ["Publish", "PDF", "Intellisense"]
   },
   "Targets": {
     "Pdf": {
