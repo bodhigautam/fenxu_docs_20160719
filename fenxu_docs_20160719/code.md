@@ -14,6 +14,14 @@ asdfaasdf
 
 [test link non-exist](fake_link.md)
 
+[test link non-exist](fake_link.txt)
+
+[test link non-exist](fake_link.html)
+
+[test link non-exist](fake_link.cs)
+
+[test link non-exist](fake_link.abc)
+
 ```cs
 using System;
 
