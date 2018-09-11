@@ -1,7 +1,7 @@
 {
-  "markdownEngineName": "dfm-latest",
+  "markdownEngineName": "markdig",
   "build": {
-    "markdownEngineName": "dfm-latest",
+    "markdownEngineName": "markdig",
     "content": [
       {
         "files": [
