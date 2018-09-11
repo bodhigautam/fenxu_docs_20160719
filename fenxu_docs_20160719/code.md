@@ -11,6 +11,9 @@ toc_rel: ""
 test test test test
 this is c# code with cs as language. Yeah. s asdf
 asdfaasdf
+
+[test link non-exist](fake_link.md)
+
 ```cs
 using System;
 
