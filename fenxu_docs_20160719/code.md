@@ -12,6 +12,12 @@ test test test test
 this is c# code with cs as language. Yeah. s asdf
 asdfaasdf
 
+**:class:`mymodule.myclass`**
+
+**:class:**`mymodule.myclass`
+
+** :class:`mymodule.myclass` **
+
 [test link non-exist](fake_link.md)
 
 ```cs
