@@ -37,7 +37,11 @@
       "contributors_to_exclude": [ "partychen", "fenxu" ],
       "dev_langs": ["powershell"]
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "open_to_public_contributors": {
+	"abc/**.md": false
+      }
+    },
     "template": [
       null
     ],
