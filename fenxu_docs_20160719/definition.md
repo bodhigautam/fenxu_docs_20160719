@@ -1,5 +1,6 @@
 ---
 is_archived: true
+open_to_public_contributors: false
 ---
 
 # Sample page
