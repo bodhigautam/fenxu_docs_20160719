@@ -1,4 +1,5 @@
 {
+  "test": "test",
   "build_entry_point": "docs",
   "need_generate_intellisense": false,
   "branch_target_mapping": {
