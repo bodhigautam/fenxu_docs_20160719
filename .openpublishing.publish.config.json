@@ -46,5 +46,6 @@
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
       "branch": "master"
     }
-  ]
+  ],
+  "test2": "test"
 }
