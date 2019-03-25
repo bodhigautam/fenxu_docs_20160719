@@ -14,6 +14,8 @@ asdfaasdf
 
 test
 
+[xref test](<xref:abc123>)
+
 **:class:`mymodule.myclass`**
 
 **:class:**`mymodule.myclass`
