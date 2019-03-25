@@ -1,0 +1,8 @@
+{
+  "redirections": [
+    {
+        "source_path": "fenxu_docs_20160719/code-source-redirection.md", 
+        "redirect_url": "/fenxu_docs_20160719/code",
+        "redirect_document_id": false
+    }]
+}
