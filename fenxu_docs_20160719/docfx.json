@@ -29,6 +29,7 @@
         ]
       }
     ],
+    "contributors_to_exclude": [ "fenxu" ],
     "exportRawModel": true,
     "exportViewModel": true,
     "overwrite": [],
