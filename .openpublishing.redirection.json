@@ -3,6 +3,11 @@
     {
         "source_path": "fenxu_docs_20160719/code-source-redirection.md", 
         "redirect_url": "/fenxu_docs_20160719/code",
-        "redirect_document_id": false
+        "redirect_document_id": true
+    },
+    {
+        "source_path": "fenxu_docs_20160719/code-source-redirection-2.md", 
+        "redirect_url": "/fenxu_docs_20160719/code",
+        "redirect_document_id": true
     }]
 }
