@@ -11,7 +11,8 @@
         "exclude": [
           "**/obj/**",
           "fenxu_docs_20160719/**",
-          "**/includes/**"
+          "**/includes/**",
+		  "feeling.md"
         ]
       }
     ],
